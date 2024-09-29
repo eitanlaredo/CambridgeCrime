@@ -1,3 +1,6 @@
+
+Designing an interactive map of Cambridge police reports in Dash                             	
+
 EDA_cleaning.py and EDA_Curation.py drive the process to get from the original Cambridge Police report data set to a finalized csv file for analysis
 
 app.py drives the plotly interactive map in Dash
